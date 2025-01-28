@@ -7,6 +7,9 @@ address:
 - Prussia
 phone: "+49 03643 545400"
 email: friedrich@thevoid.de
+github: nietzsche
+linkedin: nietzsche
+
 # Insert URLs without http://
 urls:
 - wki.pe/friedrich_nietzsche
@@ -23,15 +26,21 @@ skills:
 - Anti-foundationalism, Philosophy of history
 
 experience:
-- years: 1879--1889
+- dates: 
+    start: 1879
+    end: 1889
   employer: Freiberufler
   job: Freier Philosoph
   city: Sils-Maria
-- years: 1869–-1879
+- dates: 
+    start: 1869
+    end: 1879
   employer: Universität Basel
   job: Professor für klassische Philologie
   city: Basel
-- years: 1867--1868
+- dates: 
+    start: 1867
+    end: 1868
   employer: Preußische Artillerie
   job: Kanonier
   city: Naumburg
